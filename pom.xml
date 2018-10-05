@@ -47,6 +47,7 @@
         <module>Main</module>
         <module>SortInterface</module>
         <module>BubbleSort</module>
+        <module>SortSupportClasses</module>
     </modules>
 
 

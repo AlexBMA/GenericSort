@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="BubbleSort" />
         <module name="SortInterface" />
+        <module name="SortSupportClasses" />
       </profile>
     </annotationProcessing>
   </component>

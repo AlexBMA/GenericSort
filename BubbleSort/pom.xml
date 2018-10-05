@@ -15,6 +15,10 @@
             <groupId>java11.exaple2</groupId>
             <artifactId>SortInterface</artifactId>
         </dependency>
+        <dependency>
+            <groupId>java11.exaple2</groupId>
+            <artifactId>SortSupportClasses</artifactId>
+        </dependency>
     </dependencies>
 
 
